@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+<title>Indice</title>
+<meta charset = 'utf-8'>
+<link rel="stylesheet" type="text/css" href="../css/estilos.css">
+
+
+</head>
+
+<h1 style = 'text-aling:center;'> Índice </h1>
+
+xx
+
+</body>
+<ul>
+<li><a href = 'pagina1.html'>Página 1</a></li>
+<li><a href = 'pagina2.html'>Página 2</a></li>
+<li><a href = 'pagina3.html'>Página 3</a></li>
+<li><a href = 'pagina4.html'>Página 4</a></li>
+<li><a href = 'pagina5.html'>Página 5</a></li>
+
+<center><table border='1'>
+
+
+
+
+
+
+
+</body>
+
+
+
+
+
+
+
+
+
+
+
+
+</html>
+
+
+
+
+
+
+
+
