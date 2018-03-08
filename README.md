@@ -1,2 +1,2 @@
 # himalayismo18
-informatica
+cd informatica
